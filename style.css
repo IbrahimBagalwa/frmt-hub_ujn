@@ -19,3 +19,12 @@ body{
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
 }
+.content-personal{
+    margin: 15px;
+}
+.personal-img {
+    width: 200px;
+    border-radius: 50%;
+    height: 200px;
+    border: #203040 3px solid;
+}
