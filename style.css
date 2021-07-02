@@ -10,7 +10,27 @@ body{
 .content-navbar{
     background-color: #203040;
     color: #ffffff;
-    width: 100%;
+}
+.navbar-header{
+    display: inline-block;
+    text-align: center;
+}
+.navbar-header a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 25px;
+}
+.header-links{
+    display: inline;
+}
+.header-links li{
+    list-style:none;
+}
+.header-links li a{
+    text-decoration: none;
+    color: #ffffff;
+    display: inline-block;
 }
 
 .meet{
