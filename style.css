@@ -22,7 +22,6 @@ body{
 .content-personal{
     text-align: center;
     margin: 15px;
-    color: #203040;
     display: inline-block;
 }
 .content-personal img{
@@ -59,4 +58,8 @@ body{
 }
 .services-content{
     background-color: #c0c0c0;
+}
+.services{
+    text-align: center;
+    display: inline-block;
 }
