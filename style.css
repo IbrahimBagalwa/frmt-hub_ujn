@@ -7,6 +7,12 @@ body{
     margin: 0;
     height: 100vh;
 }
+.content-navbar{
+    background-color: #203040;
+    color: #ffffff;
+    width: 100%;
+}
+
 .meet{
     text-align: center;
     font-size: 16px;
