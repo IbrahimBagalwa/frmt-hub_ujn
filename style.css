@@ -21,10 +21,13 @@ body{
 }
 .content-personal{
     margin: 15px;
+    text-align: center;
+    color: #203040;
 }
-.personal-img {
+.content-personal img{
     width: 200px;
     border-radius: 50%;
     height: 200px;
     border: #203040 3px solid;
 }
+
