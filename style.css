@@ -73,3 +73,9 @@ body{
 .services p{
     margin-bottom: 2px;
 }
+
+#footer{
+    background-color: #203040;
+    color: #ffffff;
+    height: 40px;
+}
