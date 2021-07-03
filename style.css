@@ -82,3 +82,9 @@ body{
 #footer p{
     text-align: center;
 }
+.content-navba{
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+    background-color:lime;
+}
